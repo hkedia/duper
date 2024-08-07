@@ -1,0 +1,202 @@
+Compiling 1 file (.ex)
+
+18:51:20.753 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:26.108 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:31.519 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:36.988 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:42.508 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:48.070 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:53.820 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:51:59.425 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:05.140 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:10.885 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:16.492 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:22.226 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:27.891 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:33.672 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:39.425 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:45.107 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:51.042 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:52:57.670 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:53:04.326 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:53:10.958 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:53:17.703 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+18:53:24.183 [error] GenServer Gatherer terminating
+** (FunctionClauseError) no function clause matching in Duper.Gatherer.handle_cast/2
+    (duper 0.1.0) lib/duper/gatherer.ex:29: Duper.Gatherer.handle_cast(:done, 2)
+    (stdlib 6.0) gen_server.erl:2199: :gen_server.try_handle_cast/3
+    (stdlib 6.0) gen_server.erl:2261: :gen_server.handle_msg/6
+    (stdlib 6.0) proc_lib.erl:329: :proc_lib.init_p_do_apply/3
+Last message: {:"$gen_cast", :done}
+State: 2
+
+BREAK: (a)bort (A)bort with dump (c)ontinue (p)roc info (i)nfo
+       (l)oaded (v)ersion (k)ill (D)b-tables (d)istribution
